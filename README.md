@@ -42,7 +42,7 @@
 
 ✨ **Calculator (Python)** – A simple and interactive calculator using Python basics.
 
-🎬 **Netflix Clone (HTML/CSS)** – A static UI clone replicating Netflix landing page.
+🎬 **Whatsapp Review Collector** – Made using fastAPI, it lets you leave a review for a product through your whatsapp.
 
 🛍️ **Footwear E‑Commerce Front Page** – Static landing page design for an online footwear store.
 
