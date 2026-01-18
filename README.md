@@ -40,7 +40,7 @@
 
 ## 📂 Featured Projects
 
-✨ **Calculator (Python)** – A simple and interactive calculator using Python basics.
+✨ **Notate (interactive whiteboard)** – A collaborative whiteboard which can work seamlessly across office teams.
 
 🎬 **Whatsapp Review Collector** – Made using fastAPI, it lets you leave a review for a product through your whatsapp.
 
