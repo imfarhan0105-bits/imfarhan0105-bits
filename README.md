@@ -36,15 +36,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
----
-
-## 📂 Featured Projects
-
-✨ **Notate (interactive whiteboard)** – A collaborative whiteboard which can work seamlessly across office teams.
-
-🎬 **Whatsapp Review Collector** – Made using fastAPI, it lets you leave a review for a product through your whatsapp.
-
-🛍️ **Footwear E‑Commerce Front Page** – Static landing page design for an online footwear store.
 
 ---
 
