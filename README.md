@@ -89,6 +89,16 @@
 </p>
 
 ---
+## 📛 Earned Badges
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imfarhan0105-bits/imfarhan0105-bits/main/assets/contributor.png" height="150"/>
+  <img src="https://raw.githubusercontent.com/imfarhan0105-bits/imfarhan0105-bits/main/assets/open.png" height="150"/>
+  <img src="https://raw.githubusercontent.com/imfarhan0105-bits/imfarhan0105-bits/main/assets/ai.png" height="150"/>
+  <img src="https://raw.githubusercontent.com/imfarhan0105-bits/imfarhan0105-bits/main/assets/ambassador.png" height="150"/>
+</p>
+
+---
 
 ## 🤝 Let's Collaborate
 
