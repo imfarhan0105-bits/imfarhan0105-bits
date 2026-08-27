@@ -15,6 +15,7 @@
 
 * 🎓 **Undergraduate Sophomore at BITS Pilani** | Engineering the intersection of hardware logic and software scalability.
 * 💼 **Interned @ ZeroShift** | Contributed to core infrastructure, worked alongside the founding team to ship products.
+* 💼 **Interned @ Ramco Steels Pvt. Ltd.** | Contributed to digitization of industrial complex and shipped two industry heavy web applications.
 * ⚡ **Full-Stack Architect** | Crafting high-performance applications using the **MERN Stack**, with a focus on seamless UX and robust backend logic.
 * 🧠 **AI & Computer Vision** | Implementing neural networks and CV pipelines using **PyTorch**, **OpenCV**, and **NumPy** to solve real-world data challenges.
 * 🌐 **Web3 & Digital Sovereignty** | Deep-diving into Bitcoin protocols, Lightning Network, and the future of decentralized finance.
