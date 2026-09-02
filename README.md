@@ -78,15 +78,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity & Open Source
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imfarhan0105-bits&show_icons=true&theme=tokyonight&hide_border=true&title_color=F7931A&icon_color=F7931A&count_private=true&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imfarhan0105-bits&layout=compact&theme=tokyonight&hide_border=true&title_color=F7931A&icon_color=F7931A&cache_seconds=1800" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imfarhan0105-bits&theme=tokyonight&hide_border=true&stroke=F7931A&fire=F7931A" width="100%" />
+<p align="left">
+  <a href="https://github.com/imfarhan0105-bits">
+    <img src="https://img.shields.io/badge/Total_Contributions-106%2B-F7931A?style=for-the-badge&logo=github&logoColor=white" alt="106+ Contributions (Since Aug 2025)" />
+  </a>
 </p>
 
 ---
@@ -104,18 +101,10 @@
 ## 🤝 Let's Collaborate
 
 <p align="left">
-  <a href="mailto:imfarhan0105@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Farhan" />
-  </a>
-  <a href="https://www.linkedin.com/in/imfarhan0105/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/imfarhan0105-bits">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://x.com/imfarhan0105">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
+  <a href="mailto:imfarhan0105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Farhan" /></a>
+  <a href="https://www.linkedin.com/in/imfarhan0105/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/imfarhan0105-bits"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/imfarhan0105"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a>
 </p>
 
 > [!TIP]
